@@ -1,0 +1,4 @@
+[submodule "covid-counties"]
+	path = covid-counties
+	url = https://github.com/yagni/covid-counties.git
+	branch = develop
